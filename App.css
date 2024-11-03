@@ -1,0 +1,26 @@
+/* App.css */
+
+/* Global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Unique section styles */
+  .about-section {
+    background: linear-gradient(135deg, #f093fb, #f5576c);
+    padding: 4rem 0;
+    color: #fff; /* Optional: Adjust text color for contrast */
+  }
+  
+  .projects-section {
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    padding: 4rem 0;
+    color: #fff;
+  }
+  
